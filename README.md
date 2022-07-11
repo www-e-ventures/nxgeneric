@@ -1,5 +1,13 @@
 # NxExample
 
+generic monorepo trimmed for deploy.build
+
+
+
+
+
+
+======
 This project was generated using [Nx](https://nx.dev).
 
 <p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" width="450"></p>
