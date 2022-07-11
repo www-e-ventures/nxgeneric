@@ -1,8 +1,16 @@
 # NxExample
 
 generic monorepo trimmed for deploy.build
-
-
+generic monorepo trimmed for deploy.build
+generic monorepo trimmed for deploy.build
+generic monorepo trimmed for deploy.build
+generic monorepo trimmed for deploy.build
+generic monorepo trimmed for deploy.build
+generic monorepo trimmed for deploy.build
+generic monorepo trimmed for deploy.build
+generic monorepo trimmed for deploy.build
+generic monorepo trimmed for deploy.build
+generic monorepo trimmed for deploy.build
 
 
 
