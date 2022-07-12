@@ -1,7 +1,7 @@
 # NxExample
 
 change1
-
+change2
 generic monorepo trimmed for deploy.build
 generic monorepo trimmed for deploy.build
 generic monorepo trimmed for deploy.build
