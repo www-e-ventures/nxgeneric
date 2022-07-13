@@ -1,0 +1,30 @@
+
+> nx run products:lint  [existing outputs match the cache, left as is]
+
+
+Linting "products"...
+=============
+
+WARNING: You are currently running a version of TypeScript which is not officially supported by @typescript-eslint/typescript-estree.
+
+You may find that it works just fine, or you may not.
+
+SUPPORTED TYPESCRIPT VERSIONS: >=3.3.1 <4.7.0
+
+YOUR TYPESCRIPT VERSION: 4.7.2
+
+Please only submit bug reports when using the officially supported version.
+
+=============
+
+All files pass linting.
+
+
+ 
+
+ >  NX   Successfully ran target lint for project products
+
+   Nx read the output from the cache instead of running the command for 1 out of 1 tasks.
+
+   See Nx Cloud run details at https://nx.app/runs/lmJviLwezWR
+
